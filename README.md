@@ -1,0 +1,6 @@
+- This is a file for the non-graded activity in CS3
+- This repository contains 3 html files: index color bg.html, index img bg.html, and index.html.
+- This is due to the fact that there were multiple website changes in the directions of the PDF.
+- The code 'index color bg.html' has colors for the background and the text.
+- The code 'index img bg.html' has an image for the background.
+- The code 'index.html' is the final website seen at the last page of the PDF file that was given, with tags.
